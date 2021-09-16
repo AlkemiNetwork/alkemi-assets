@@ -1,0 +1,7 @@
+These accounts held these amounts on 2021-09-15
+
+#ALK Address                                    Description
+99M  0x324c8ea24f1673311f2eb418064c1c5fa064bf9d Token Manager Contract
+70M  0x14716c982fd8b7f1e8f0b4dbb496dce438a29d93 Reward Control Contract
+7M   0xcd18eaa163733da39c232722cbc4e8940b1d8888 Sablier Payments
+3M   0x76bbc9b405b0d5f675cfad122df3d87b232f3d1d Uniswap Liquidity
